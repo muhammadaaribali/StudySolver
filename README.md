@@ -1,3 +1,4 @@
+https://muhammadaaribali.github.io/StudySolver/
 # StudySolver
 <img width="1895" height="948" alt="Screenshot 2025-08-08 131558" src="https://github.com/user-attachments/assets/a9e245ac-8c74-4a59-aacc-b1ebf3737ddb" />
 <img width="1893" height="944" alt="Screenshot 2025-08-08 131633" src="https://github.com/user-attachments/assets/64506b8d-63d0-4b2f-84ea-00fd3d82570e" />
